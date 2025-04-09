@@ -26,7 +26,7 @@ git clone https://github.com/wallacemt/dynamic_programming.git
 cd dynamic_programming
 ```
 
-### 3. Execute visual studio code and execute python code
+### 3. Execute visual studio code and execute code
 
 ```
 code .
